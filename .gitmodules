@@ -1,0 +1,57 @@
+[submodule "WebExtensions/tablog"]
+	path = WebExtensions/tablog
+	url = https://github.com/vogler/tablog.git
+[submodule "WebExtensions/quick-start"]
+	path = WebExtensions/quick-start
+	url = https://github.com/samuelmeuli/quick-start.git
+[submodule "WebExtensions/tabtime"]
+	path = WebExtensions/tabtime
+	url = https://github.com/vogler/tabtime.git
+[submodule "WebExtensions/tabman"]
+	path = WebExtensions/tabman
+	url = https://github.com/vogler/tabman.git
+[submodule "PL/OCaml/ppx_distr_guards"]
+	path = PL/OCaml/ppx_distr_guards
+	url = https://github.com/vogler/ppx_distr_guards.git
+[submodule "PL/OCaml/gadt"]
+	path = PL/OCaml/gadt
+	url = https://github.com/vogler/gadt.git
+[submodule "PL/vadt"]
+	path = PL/vadt
+	url = https://github.com/vogler/vadt.git
+[submodule "PL/lang"]
+	path = PL/lang
+	url = https://github.com/vogler/lang.git
+[submodule "HW/SmartLock"]
+	path = HW/SmartLock
+	url = https://github.com/vogler/SmartLock.git
+[submodule "HW/LED-matrix"]
+	path = HW/LED-matrix
+	url = https://github.com/vogler/LED-matrix.git
+[submodule "HW/esp-distance-sensor"]
+	path = HW/esp-distance-sensor
+	url = https://github.com/vogler/esp-distance-sensor.git
+[submodule "HW/smart-home"]
+	path = HW/smart-home
+	url = https://github.com/vogler/smart-home.git
+[submodule "Web/free-games-claimer"]
+	path = Web/free-games-claimer
+	url = https://github.com/vogler/free-games-claimer.git
+[submodule "Web/syncmine"]
+	path = Web/syncmine
+	url = https://github.com/vogler/syncmine.git
+[submodule "Web/swm"]
+	path = Web/swm
+	url = https://github.com/vogler/swm.git
+[submodule "Web/epaper-downloader"]
+	path = Web/epaper-downloader
+	url = https://github.com/vogler/epaper-downloader.git
+[submodule "Tech/web-tech"]
+	path = Tech/web-tech
+	url = https://github.com/vogler/web-tech.git
+[submodule "Git/repoman"]
+	path = Git/repoman
+	url = https://github.com/vogler/repoman.git
+[submodule "Git/repo-issues"]
+	path = Git/repo-issues
+	url = https://github.com/vogler/repo-issues.git
