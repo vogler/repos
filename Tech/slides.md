@@ -1,0 +1,1 @@
+- https://sli.dev/guide/why markdown-based slides for devs, nicer than Reveal.js and Marp, supports editor, type info for TS, `pnpm create slidev`
